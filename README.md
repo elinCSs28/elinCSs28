@@ -1,13 +1,13 @@
 ## Hello! 👋
 
-🎓 Sophomore at Rutgers University, studying Electrical Engineering and Computer Science
-🔭 Aspiring Electrical Engineer and Data Scientist in Machine Learning
+🎓 Sophomore at Rutgers University, studying Electrical Engineering and Computer Science \
+🔭 Aspiring Electrical Engineer and Data Scientist in Machine Learning \
 
-Personal Email: emmalylin@gmail.com
-University Email: ell93@scarletmail.rutgers.edu
+Personal Email: emmalylin@gmail.com \
+University Email: ell93@scarletmail.rutgers.edu \
 
-LinkedIn Profile: https://www.linkedin.com/in/emma-lin-55752925a/
-Feel free to connect with me!
+LinkedIn Profile: https://www.linkedin.com/in/emma-lin-55752925a/ \
+Feel free to connect with me! \
 
 <!--✨ _special_ ✨
 🔭 I’m currently working on training with ML/AI with Break Through Tech @ Cornell
