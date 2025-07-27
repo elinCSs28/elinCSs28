@@ -1,11 +1,16 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**elinCSs28/elinCSs28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sophomore at Rutgers University, studying Electrical Engineering and Computer Science
+🔭 Aspiring Electrical Engineer and Data Scientist in Machine Learning
 
-Here are some ideas to get you started:
+Personal Email: emmalylin@gmail.com
+University Email: ell93@scarletmail.rutgers.edu
 
-- 🔭 I’m currently working on ...
+LinkedIn Profile: https://www.linkedin.com/in/emma-lin-55752925a/
+Feel free to connect with me!
+
+<!--✨ _special_ ✨
+🔭 I’m currently working on training with ML/AI with Break Through Tech @ Cornell
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
