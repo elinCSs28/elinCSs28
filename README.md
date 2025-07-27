@@ -4,13 +4,13 @@
 🔭 Aspiring Electrical Engineer and Data Scientist in Machine Learning \
 Positions of Interest: ML (Machine Learning Engineer), SWE (Software Engineering), EE (Electrical Engineering), BE (Backend Development), DS (Data Scientist), DE (Data Engineering), PE (Power Engineering)
 
-Through data collection and analytics, I am breaking down the walls between hardware and software,
+Through data collection and analytics, I strive to break down the walls between hardware and software, especially in Machine Learning.
 
-🎯 Featured Project:
-<TBD>
+🎯 Featured Project: \
+TBD
 
-🚀 Projects:
-<TBD>
+🚀 Projects: \
+TBD
 
 Programming Language Summary:
 - Python, Java, C 
