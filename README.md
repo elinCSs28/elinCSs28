@@ -12,11 +12,11 @@ Through data collection and analytics, I am breaking down the walls between hard
 🚀 Projects:
 <TBD>
 
-Programming Language Summary: \
-- Python, Java, C \
-- Data Science: Pandas, NumPy, scikit-learn, TensorFlow \
-- WebDev: HTML, CSS, Javascript(Beginners) \
-- Tools: Jupyter Notebooks, Git, Github \
+Programming Language Summary:
+- Python, Java, C 
+- Data Science: Pandas, NumPy, scikit-learn, TensorFlow 
+- WebDev: HTML, CSS, Javascript(Beginners) 
+- Tools: Jupyter Notebooks, Git, Github 
 - Databases: PostgreSQL
 
 Contacts: \
