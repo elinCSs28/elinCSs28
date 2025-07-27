@@ -28,7 +28,8 @@ University Email: ell93@scarletmail.rutgers.edu
 LinkedIn Profile: https://www.linkedin.com/in/emma-lin-55752925a/ \
 Feel free to connect with me! 
 
-
+About me: \
+I love coffee, with or without sugar, as a way to always make my day. You can find me tinkering on some PCBs or coding at the edge of a lounge, getting ready for the next best project. I enjoy listening to Lo-Fi and K-pop, gaming with friends, and solving puzzles as a team.
 
 
 
