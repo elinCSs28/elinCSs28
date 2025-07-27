@@ -12,7 +12,7 @@ Current Work: Training with Break Through Tech in ML/AI (Ask about my technical 
 TBD
 
 🚀 Projects: \
-TBD
+AI Studio Project
 
 Programming Language Summary:
 - Python, Java, C 
