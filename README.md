@@ -1,4 +1,4 @@
-## Hello! 👋
+#**Emma Lin | Electrical Engineering and Computer Science Student**
 
 🎓 Sophomore at Rutgers University, studying Electrical Engineering and Computer Science \
 🔭 Aspiring Electrical Engineer and Data Scientist in Machine Learning \
