@@ -4,10 +4,11 @@
 🔭 Aspiring Electrical Engineer and Data Scientist in Machine Learning \
 Positions of Interest: ML (Machine Learning Engineer), SWE (Software Engineering), EE (Electrical Engineering), BE (Backend Development), DS (Data Scientist), DE (Data Engineering), PE (Power Engineering)
 
-Through data collection and analytics, I strive to break down the walls between hardware and software, especially in Machine Learning. I am interested in network security, power engineering, AC/DC applications, and embedded systems engineering.
+Through data collection and analytics, I strive to break down the walls between hardware and software, especially in Machine Learning. I am interested in network security, power engineering, AC/DC applications, sustainable energy, and embedded systems engineering.
 
 # 📫 Current Work
 Training with Break Through Tech in ML/AI (Ask about my technical growth and check out the program here! -> https://www.breakthroughtech.org/)
+I am also currently working on my own website to share my experiences.
 
 # 🎯 Featured Project
 TBD
@@ -17,10 +18,11 @@ AI Studio Project
 
 # 🌱 Programming Language Summary
 - Python, Java, C 
-- Data Science: Pandas, NumPy, scikit-learn, TensorFlow 
+- Data Science: Pandas, NumPy, scikit-learn, TensorFlow, Matplotlib
 - WebDev: HTML, CSS, Javascript(Beginners), Flask
-- Tools: Jupyter Notebooks, Git, Github 
+- Tools: Jupyter Notebooks, Git, Github, Linux, Bash, Anaconda
 - Databases: PostgreSQL
+- Hardware programming: Arduino, Raspberry Pi
 
 # ⚡ Github Highlights
 
@@ -32,7 +34,7 @@ LinkedIn Profile: https://www.linkedin.com/in/emma-lin-55752925a/ \
 Feel free to connect with me! 
 
 # 😄 About me
-I love coffee, with or without sugar, as a way to always make my day. You can find me tinkering on some PCBs or coding at the edge of a lounge, getting ready for the next best project. I enjoy listening to Lo-Fi and K-pop, gaming with friends, and solving puzzles as a team.
+I love coffee, with or without sugar, as a way to always make my day, its first to matcha. You can find me tinkering on some PCBs or coding at the edge of a lounge, getting ready for the next best project. I enjoy listening to Lo-Fi and K-pop, gaming with friends, and solving puzzles as a team.
 
 
 
