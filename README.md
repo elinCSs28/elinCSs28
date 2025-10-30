@@ -7,7 +7,7 @@ Positions of Interest: ML (Machine Learning Engineer), SWE (Software Engineering
 Through data collection and analytics, I strive to break down the walls between hardware and software, especially in Machine Learning. I am interested in network security, power engineering, AC/DC applications, sustainable energy, and embedded systems engineering.
 
 # 📫 Current Work
-Training with Break Through Tech in ML/AI (Ask about my technical growth and check out the program here! -> https://www.breakthroughtech.org/)
+Training with Break Through Tech in ML/AI (Ask about my technical growth and check out the program here! -> https://www.breakthroughtech.org/) \
 I am also currently working on my own website to share my experiences.
 
 # 🎯 Featured Project
